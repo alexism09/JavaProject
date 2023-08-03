@@ -1,0 +1,12 @@
+// converting a data type to another type
+
+    // implicit casting - happens automatically when coverting from a narrower range data type to a wider range data type
+    // converting int to a double/float/long
+    //converting float to double
+
+    // explicit casting - does not happen automatically. Shold ve dibe by the programmer when converting from a wider
+    to a narrower data type
+
+    double/float/long to int
+    double to float
+

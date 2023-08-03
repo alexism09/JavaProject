@@ -1,0 +1,9 @@
+main -> creates main method
+main hit enter button -> public static void main (String[] args) }
+
+sout is short for system out command
+
+Change the name of file
+-right click on file you want to change
+-refractor --> rename
+-shortcut: shift-F6
